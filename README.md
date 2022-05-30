@@ -62,7 +62,10 @@
 <br>
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
-  <img src="https://github.com/deinsteins/deinsteins/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/deinsteins/deinsteins/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 </p>
 
 ---
