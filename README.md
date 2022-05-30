@@ -22,7 +22,10 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a
  </p>
-
+<br>
+<div align="center">
+<h3><b>My Github Statistic</b></h3>
+</div>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deinsteins&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="deinsteins" />
 </p>
