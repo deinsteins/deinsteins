@@ -9,10 +9,10 @@
 </p>
 
 <h3 align="left">Personal Details:</h3>
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>Personal Details<br>
-&#9745; <h4>Education:</h4> Bachelor of Computer Science/Informatics at [Bina Insani University](https://binainsani.ac.id) <br>
-&#9745; <h4>Learning programming languages:</h4> JavaScript, HTML, CSS, Python, PHP <br>
-&#9745; <h4>Hobby:</h4> Reading books, Listen music, Play games, Hiking<br>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>Personal Details<br>
+&#9745; <h4>Education:</h4> Bachelor of Computer Science/Informatics at [Bina Insani University](https://binainsani.ac.id)
+&#9745; <h4>Learning programming languages:</h4> JavaScript, HTML, CSS, Python, PHP
+&#9745; <h4>Hobby:</h4> Reading books, Listen music, Play games, Hiking
 &#9745; Bit of **Designer**
 <br>
 <br>
