@@ -7,11 +7,12 @@
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
-<!-- Personal Details -->
+
+<h3 align="left">Personal Details:</h3>
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>Personal Details<br>
-&#9745; **Education**: Bachelor of Computer Science/Informatics at [Bina Insani University](https://binainsani.ac.id) <br>
-&#9745; **Learning programming languages**: JavaScript, HTML, CSS, Python, PHP <br>
-&#9745; **Hobby**: Reading books, Listen music, Play games, Hiking<br>
+&#9745; <h4>Education:</h4> Bachelor of Computer Science/Informatics at [Bina Insani University](https://binainsani.ac.id) <br>
+&#9745; <h4>Learning programming languages:</h4> JavaScript, HTML, CSS, Python, PHP <br>
+&#9745; <h4>Hobby:</h4> Reading books, Listen music, Play games, Hiking<br>
 &#9745; Bit of **Designer**
 <br>
 <br>
