@@ -18,10 +18,3 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
-
-<p align="left">
-<a href="https://github.com/deinsteins">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deinsteins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deinstein&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
