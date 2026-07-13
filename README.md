@@ -91,8 +91,8 @@ Software Engineer with strong experience building **scalable web applications** 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deinsteins&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinsteins&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deinsteins&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deinsteins&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ Software Engineer with strong experience building **scalable web applications** 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=deinsteins&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=deinsteins&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
