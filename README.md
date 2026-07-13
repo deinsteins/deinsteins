@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deinstei/ns/" target="_blank">
+  <a href="https://www.linkedin.com/in/deinsteins/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hidayaatdenii@gmail.com" target="_blank">
@@ -103,6 +103,13 @@ Software Engineer with strong experience building **scalable web applications** 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=deinsteins&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
+</p>
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3d contribution graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3d contribution graph" width="100%" />
 </p>
 
 ## 🐍 Contribution Graph
